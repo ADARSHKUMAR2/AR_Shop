@@ -105,7 +105,7 @@ namespace Vuforia
             {
                 component.enabled = false;
             }
-            PanelUI.gameObject.SetActive(false);
+            //PanelUI.gameObject.SetActive(false);
             //Button1.gameObject.SetActive(false);
             Debug.Log("Trackable " + mTrackableBehaviour.TrackableName + " lost");
         }

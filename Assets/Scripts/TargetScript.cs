@@ -32,7 +32,7 @@ namespace Vuforia
         public void EnterShop()
         {
             Button1.gameObject.SetActive(false);
-            PanelUI.gameObject.SetActive(true);
+            //PanelUI.gameObject.SetActive(true);
         }
 
         private void Update()
